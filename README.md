@@ -8,5 +8,7 @@
 
 <br>
 <br>
-
+<a href="https://apps.microsoft.com/detail/9pm6hq85j8hw?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
